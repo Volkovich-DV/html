@@ -13,6 +13,8 @@ h1 {
   text-align: center;
   font-size: 36px;
   margin-bottom: 0;
+  background-color: #f9f9f9;
+  color: #ff0000;
 }
 
 main > h2 {
